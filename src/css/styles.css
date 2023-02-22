@@ -6,6 +6,7 @@
 */
 
 @import url('./components/fonts.css');
+@import url('./components/modern-normalize.min.css');
 @import url('./components/normalize.css');
 @import url('./components/reset.css');
 

@@ -72,7 +72,7 @@
 }
 
 .contacts-thumb-two {
-    width: 264px;
+    width: 260px;
     height: 40px;
 }
 
@@ -111,8 +111,9 @@
 
 .contacts-icon-link {
     display: block;
-    margin-right: 8px;
-    margin-left: 8px;
+    width: 24px;
+    height: 24px;
+    margin: 8px;
 }
 
 .contacts-icon {
@@ -218,11 +219,6 @@
         margin-bottom: 8px;
     }
 
-.contacts-icon-link {
-    margin-left: 0;
-
-}
-
     .contacts-descr {
         margin-bottom: 52px;
     }
@@ -255,15 +251,8 @@
         margin-right: 0px;
     }
 
-.contacts-thumb-three {
-    display: flex;
-    gap: 16px;
-
-}
-
-
     .contacts-link-second {
-     
+        margin-left: 16px;
     }
 
     .contacts-address-thumb {

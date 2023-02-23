@@ -295,7 +295,7 @@
 
     .contacts-link,
     .contacts-link-second {
-        color: #828282;
+        color: var(--input-text-color);
     }
 
     .contacts-address-thumb {
@@ -303,7 +303,7 @@
     }
 
     .contacts-address-location {
-        color: #828282;
+        color: var(--input-text-color);
     }
 
     .contacts-address-map {
